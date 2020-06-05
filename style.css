@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.navSticy {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+    font-family: 'Poppins', sans-serif;
+}
+.banner {
+    margin-bottom: 100px;
+}
+.card {
+    border: none;
+    box-shadow: 05px 05px 10px lightgray;
+    text-align: center;
+}
+.card img {
+    padding: 35px;
+}
+.card-deck {
+
+    margin-bottom: 90px;
+}
+
+.banner {
+    padding: 35px;
+}
+
+.cat {
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.bag img {
+    border-radius: 0px 20px;
+    background: white;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    box-shadow: 0px 0px 20px lightgrey;
+}
+.perfume img {
+    border-radius: 20px 0px;
+    background: white;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    box-shadow: 0px 0px 20px lightgrey;
+    margin-bottom: 20px;
+}
+.cat-img {
+    width: 100%;
+    height: auto;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+}
